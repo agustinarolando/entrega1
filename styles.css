@@ -5,6 +5,16 @@ body {
     text-align: center;
 }
 
+/* Estilos de las fuentes - Agustina */
+h1 {
+    
+    font-family: 'Viga', sans-serif;
+}
+
+h2, p {
+    font-family: 'Poppins', sans-serif;
+}
+
 .image{
     border: 5px solid green;
     border-radius: 10px;
